@@ -3,3 +3,4 @@ Git commands
 1.git status
 2.git init
 3.get remote origin
+4.git commit -m "message"
